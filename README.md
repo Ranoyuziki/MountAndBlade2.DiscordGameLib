@@ -1,2 +1,2 @@
 # MountAndBlade2.DiscordGameLib
-MountAndBlade2.DiscordGameLib by Ranoyuziki(Soon)
+MountAndBlade2.DiscordGameLib by Ranoyuziki
