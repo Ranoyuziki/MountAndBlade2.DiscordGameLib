@@ -1,0 +1,9 @@
+C:\Users\RyfiusLeeker\source\repos\MountAndBlade2.DiscordGameLib\MountAndBlade2.DiscordGameLib\bin\Debug\MountAndBlade2.DiscordGameLib.dll
+C:\Users\RyfiusLeeker\source\repos\MountAndBlade2.DiscordGameLib\MountAndBlade2.DiscordGameLib\bin\Debug\MountAndBlade2.DiscordGameLib.pdb
+C:\Users\RyfiusLeeker\source\repos\MountAndBlade2.DiscordGameLib\MountAndBlade2.DiscordGameLib\bin\Debug\DiscordRPC.dll
+C:\Users\RyfiusLeeker\source\repos\MountAndBlade2.DiscordGameLib\MountAndBlade2.DiscordGameLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RyfiusLeeker\source\repos\MountAndBlade2.DiscordGameLib\MountAndBlade2.DiscordGameLib\obj\Debug\MountAndBlade2.DiscordGameLib.csproj.AssemblyReference.cache
+C:\Users\RyfiusLeeker\source\repos\MountAndBlade2.DiscordGameLib\MountAndBlade2.DiscordGameLib\obj\Debug\MountAndBlade2.DiscordGameLib.csproj.CoreCompileInputs.cache
+C:\Users\RyfiusLeeker\source\repos\MountAndBlade2.DiscordGameLib\MountAndBlade2.DiscordGameLib\obj\Debug\MountAndBlade2.DiscordGameLib.csproj.CopyComplete
+C:\Users\RyfiusLeeker\source\repos\MountAndBlade2.DiscordGameLib\MountAndBlade2.DiscordGameLib\obj\Debug\MountAndBlade2.DiscordGameLib.dll
+C:\Users\RyfiusLeeker\source\repos\MountAndBlade2.DiscordGameLib\MountAndBlade2.DiscordGameLib\obj\Debug\MountAndBlade2.DiscordGameLib.pdb
